@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Eazy Bank accounts related production APIs"
+  message: "Welcome to Eazy Bank accounts related prod APIs"
   contactDetails:
     name: "Srikanth Yadav - Product Owner"
     email: "{cipher}b582fc53fde2a9c2aa0dfb185e63db07192315b1d2c53740bbb3c56013dcdd5b90795cb6d7399c8a54256ca4fefce499"
